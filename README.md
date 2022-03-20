@@ -1,1 +1,1 @@
-# Apartment-Web-Scraping
+# IMDb-Web-Scraping
